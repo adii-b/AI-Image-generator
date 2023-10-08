@@ -96,7 +96,7 @@ const CreatePost = () => {
                   labelName="Your Name"
                   type="text"
                   name="name"
-                  placeholder="Ex., john doe"
+                  placeholder="Ex., Aditya"
                   value={form.name}
                   handleChange={handleChange}
                />
